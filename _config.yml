@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+#logo: /SRE.png
+title: Курс обучения SRE
+description: |
+  Надежность — это не отсутствие сбоев. Это способность системы, команды и человека вместе подняться после падения, переосмыслить, перестроить и идти дальше — с новыми правилами игры, где человеческая уязвимость не угроза, а часть уравнения
+email: eabykov@internet.ru
+github_username: eabykov
+github:
+  is_project_page: false
+show_downloads: false
